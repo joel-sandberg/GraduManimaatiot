@@ -1,6 +1,6 @@
-Animaatio 1: VektoriYhteenlasku
-Animaatio 2: AliAvaruus
-ChatGPT:n luomus: VectoriAddition
+- Animaatio 1: VektoriYhteenlasku
+- Animaatio 2: AliAvaruus
+- ChatGPT:n luomus: VectoriAddition
 
 Animaatiot luodaan komennolla: 
 `(python) -m manim -pqh scene.py -Luokan nimi-`
