@@ -244,7 +244,7 @@ class VektoriYhteenlasku(Scene):
         self.wait(2.5)
 
 
-class VektoriAddition(Scene):
+class VectorAddition(Scene):
     def construct(self):
         # Luo koordinaatisto
         axes = Axes(
